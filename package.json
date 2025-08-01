@@ -1,0 +1,24 @@
+{
+  "name": "saas-review-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js CLI tool for scraping SaaS product reviews from multiple platforms including G2, Capterra, and TrustRadius.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashme7/Saas-Review-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hashme7/Saas-Review-Scraper/issues"
+  },
+  "homepage": "https://github.com/hashme7/Saas-Review-Scraper#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
